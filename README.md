@@ -1,7 +1,7 @@
 # Hey! I'm Sofia 👋
-💫 An aspiring pentester and developer. 
-🧭 In my penultimate year of university, majoring in cybersecurity. 
-🔭 Currently working on an **AI-powered video call accessibility tool** for visually impaired individuals. 
+💫 An aspiring pentester and developer. <br>
+🧭 In my penultimate year of university, majoring in cybersecurity. <br>
+🔭 Currently working on an **AI-powered video call accessibility tool** for visually impaired individuals. <br>
 
 ### Socials
         
