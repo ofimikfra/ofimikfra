@@ -1,13 +1,13 @@
 # Hey! I'm Sofia 👋
-💫 An aspiring pentester and developer.<br>🧭 In my penultimate year of university, majoring in cybersecurity.<br>🔭 Currently working on an AI-powered video call accessibility tool for visually impaired individuals.
+💫 An aspiring pentester and developer. 
+🧭 In my penultimate year of university, majoring in cybersecurity. 
+🔭 Currently working on an **AI-powered video call accessibility tool** for visually impaired individuals. 
 
+### Socials
+        
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiambfrancisco@gmail.com) 
 
-## 🌐 Socials:
-<p aligh="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiambfrancisco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiambfrancisco@gmail.com) 
-</p>
-
-# 💻 Tech Stack:
+# Tech Stack
 <p align="center"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
