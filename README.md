@@ -4,9 +4,11 @@
 
 <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl3MTFlZ2NvZ3hvMnA3ZTF2Nzl6bXd1NThwZXp4YWxjanp2YzVpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S0mLj9j1sGdfLBf8TS/giphy.gif"  />
 
-###
-
-<p align="left">💫 I'm an aspiring pentester and developer.<br>🧭 I'm in my penultimate year of university, majoring in cybersecurity.<br>🔭 I'm currently working on an AI-powered video call accessibility tool for visually impaired individuals.</p>
+<p align="left">
+  💫 I'm an aspiring pentester and developer.<br>
+  🧭 I'm in my penultimate year of university, majoring in cybersecurity.<br>
+  🔭 I'm currently working on an AI-powered video call accessibility tool for visually impaired individuals.
+</p>
 
 ###
 
@@ -20,6 +22,8 @@
 </div>
 
 ###
+
+<h2 align="left">My tech stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
