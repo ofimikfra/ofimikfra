@@ -2,14 +2,7 @@
 
 <p align="left">💫 I'm an aspiring pentester and developer.<br>🧭 I'm in my penultimate year of university, majoring in cybersecurity.<br>🔭 I'm currently working on an AI-powered video call accessibility tool for visually impaired individuals.</p>
 
-<div align="left">
-  <a href="sofiambfrancisco" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sofiambfrancisco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiambfrancisco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiambfrancisco@gmail.com) 
 
 <h1 align="left">💻 My tech stack</h1>
 
