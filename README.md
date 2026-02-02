@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hey, I'm Sofia!</h2>
+<h1 align="left">👋 Hey, I'm Sofia!</h1>
 
 <p align="left">💫 I'm an aspiring pentester and developer.<br>🧭 I'm in my penultimate year of university, majoring in cybersecurity.<br>🔭 I'm currently working on an AI-powered video call accessibility tool for visually impaired individuals.</p>
 
-<div align="center">
+<div align="left">
   <a href="sofiambfrancisco" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h2 align="left">💻 My tech stack</h2>
+<h1 align="left">💻 My tech stack</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
