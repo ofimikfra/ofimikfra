@@ -3,7 +3,7 @@
 <p align="left">
   💫 An aspiring pentester and developer.<br>
   🧭 In my penultimate year of university, majoring in cybersecurity.<br>
-  🪴 Striving for creativity and innovation.
+  🪴 Striving for creativity and innovation.<br>
   🔭 Currently working on an AI-powered video call accessibility tool for visually impaired individuals.
 </p>
 
