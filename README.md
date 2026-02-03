@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/03/fa/8a/03fa8a3a0a6b7f25e66e3a2d027b2b35.gif" width=100%>
+
 <h1 align="left">👋 Hey, I'm Sofia!</h1>
 
 <p align="left">
