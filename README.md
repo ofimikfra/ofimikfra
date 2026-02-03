@@ -3,7 +3,7 @@
 <p align="left">
   💫 An aspiring pentester and developer.<br>
   🧭 In my penultimate year of university, majoring in cybersecurity.<br>
-  🪴 Striving for creativity and innovation.<br>
+  🚀 Passionate about creativity and innovation.<br>
   🔭 Currently working on an AI-powered video call accessibility tool for visually impaired individuals.
 </p>
 
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h1 align="left">💻 My tech stack</h1>
+<h1 align="left">💻 Tech stack</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -45,6 +45,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+</div>
+
+<h1 align="left">🎧 Personal stack</h1>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -52,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/capcut-icon.png" height="40" alt="capcut logo"  />
 </div>
 
 ###
