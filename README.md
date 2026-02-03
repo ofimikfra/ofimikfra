@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/03/fa/8a/03fa8a3a0a6b7f25e66e3a2d027b2b35.gif" width=100%>
+<img src="https://i.pinimg.com/1200x/9c/d6/86/9cd68649aec2522cc20f5d764444e392.jpg" width=100%>
 
 <h1 align="left">👋 Hey, I'm Sofia!</h1>
 
