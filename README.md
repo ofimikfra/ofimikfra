@@ -3,10 +3,10 @@
 <h1 align="left">👋 Hey, I'm Sofia!</h1>
 
 <p align="left">
-  💫 An aspiring pentester and developer.<br>
+  💫 Aspiring ethical red-teamer, security analyst, and developer.<br>
   🧭 In my penultimate year of university, majoring in cybersecurity.<br>
-  🚀 Passionate about creativity and innovation.<br>
-  🔭 Currently working on an AI-powered video call accessibility tool for visually impaired individuals.
+  🚀 Passionate about uplifting creativity for innovation.<br>
+  🔭 Currently working on <a href="https://www.instagram.com/sova.luminara/">SOVA</a>: An AI-powered video call accessibility tool for visually impaired users.
 </p>
 
 <div align="left">
