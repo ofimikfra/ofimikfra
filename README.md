@@ -6,7 +6,7 @@
   💫 Aspiring ethical red-teamer, security analyst, and developer.<br>
   🧭 In my penultimate year of university, majoring in cybersecurity.<br>
   🚀 Passionate about uplifting creativity for innovation.<br>
-  🔭 Currently working on <a href="https://www.instagram.com/sova.luminara/">SOVA</a>: An AI-powered video call accessibility tool for visually impaired users.
+  🔭 Currently working on <a href="https://sovabyluminara.netlify.app/">SOVA</a>: An AI-powered video call accessibility tool for visually impaired users.
 </p>
 
 <div align="left">
