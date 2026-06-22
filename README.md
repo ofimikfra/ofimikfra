@@ -3,8 +3,8 @@
 <h1 align="left">👋 Hey, I'm Sofia!</h1>
 
 <p align="left">
-  💫 Aspiring ethical red-teamer, security analyst, and developer.<br>
-  🧭 Fresh cybersecurity graduate.<br>
+  💫 Aspiring ethical red team operator and developer.<br>
+  🧭 Web developer intern.<br>
   🚀 Passionate about uplifting creativity for innovation.<br>
   🔭 Currently working on <a href="https://sovabyluminara.netlify.app/">SOVA</a>: An AI-powered video call accessibility tool for visually impaired users.
 </p>
